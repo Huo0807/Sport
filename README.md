@@ -15,4 +15,5 @@
 
 
 <hr>
-[簡介說明] (doc/stor_v4.md) <br>
+[簡介說明] 
+(doc/stor_v4.md) <br>
