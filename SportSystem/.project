@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>SportSystem</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
-	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-	</natures>
-</projectDescription>
+# GJSchool專案
+## 第一章
+### 第一小節
+#### A
+##### A_1
+###### A_1_1
+## dddd
+
+
+<hr>
+
+[yahoo](http://tw.yahoo.com)
+
+[GooGle](http://www.google.com)
+
+
+<hr>
+[簡介說明](doc/stor_v4.md)<br>
